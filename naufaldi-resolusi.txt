@@ -1,0 +1,5 @@
+Halo Pak, Salam kenal nama saya Naufaldi dari Tangerang, saya mahasiswa Sistem Informasi Politeknik STMI Jakarta
+
+Resolusi Saya :
+- Menguasai Bahasa PHP dan framework laravel
+- Membuat Sistem Informasi menggunakan framework php
